@@ -1,1 +1,1 @@
-# GAN-aplicada-a-finanzas-en-paralelo
+# Markowitz en paralelo
